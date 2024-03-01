@@ -1,3 +1,3 @@
 export const Constants = {
-    keystoneHealthConsultants: "Keystone Health Consultants"
+    keystoneHealthcareSolutions: "Keystone Healthcare Solutions"
 }

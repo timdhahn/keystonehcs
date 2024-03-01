@@ -32,7 +32,7 @@ const Navbar = () => {
                         className="w-8"
                       /> */}
                     </span>
-                    <span>{Constants.keystoneHealthConsultants}</span>
+                    <span>{Constants.keystoneHealthcareSolutions}</span>
                   </span>
                 </Link>
 
