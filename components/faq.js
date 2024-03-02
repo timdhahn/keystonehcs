@@ -35,8 +35,8 @@ const Faq = () => {
 
 const faqdata = [
   {
-    question: "How can Keystone Health Consultants improve our anesthesia services?",
-    answer: "Keystone Health Consultants employs a comprehensive approach to assess and optimize your anesthesia services, focusing on quality of care, operational efficiency, and financial management. Our customized solutions are designed to meet the specific needs of your facility.",
+    question: "How can Keystone Healthcare Solutions improve our anesthesia services?",
+    answer: "Keystone Healthcare Solutions employs a comprehensive approach to assess and optimize your anesthesia services, focusing on quality of care, operational efficiency, and financial management. Our customized solutions are designed to meet the specific needs of your facility.",
   },
   {
     question: "What type of healthcare facilities do you serve?",
@@ -53,7 +53,7 @@ const faqdata = [
       "Yes, we offer staffing solutions that include recruitment of highly qualified anesthesia professionals, ensuring that your department is staffed with skilled and dedicated personnel.",
   },
   {
-    question: "How do we get started with Keystone Health Consultants?",
+    question: "How do we get started with Keystone Healthcare Solutions?",
     answer:
       "The first step is to schedule a consultation with our team. We will discuss your current challenges and objectives, followed by an assessment of your anesthesia services to identify opportunities for enhancement.",
   },

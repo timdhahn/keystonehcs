@@ -31,7 +31,7 @@ const Home = () => {
       <SectionTitle
         pretitle={Constants.keystoneHealthcareSolutions}
         title="Why Choose Us?">
-Keystone Health Consultants is at the forefront of anesthesia care, offering unparalleled consulting services to healthcare providers. With a focus on innovation, quality, and efficiency, we partner with hospitals, surgery centers, and clinics to enhance their anesthesia services.      </SectionTitle>
+Keystone Healthcare Solutions is at the forefront of anesthesia care, offering unparalleled consulting services to healthcare providers. With a focus on innovation, quality, and efficiency, we partner with hospitals, surgery centers, and clinics to enhance their anesthesia services.      </SectionTitle>
       <Benefits data={benefitOne} />
       <Benefits imgPos="right" data={benefitTwo} />
       {/* <SectionTitle

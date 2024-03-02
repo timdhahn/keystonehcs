@@ -36,7 +36,7 @@ const benefitOne = {
 
 const benefitTwo = {
   title: "Excellent Outcomes",
-  desc: "Keystone Health Consultants is dedicated to elevating the standard of care for patients while optimizing performance and financial outcomes for healthcare providers.",
+  desc: "Keystone Healthcare Solutions is dedicated to elevating the standard of care for patients while optimizing performance and financial outcomes for healthcare providers.",
   image: benefitTwoImg,
   bullets: [
     {
