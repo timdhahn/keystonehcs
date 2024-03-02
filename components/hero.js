@@ -13,7 +13,7 @@ const Hero = () => {
               {Constants.keystoneHealthcareSolutions}
             </h1>
             <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl dark:text-gray-300">
-            At Keystone Health Solutions, we specialize in connecting anesthesia providers with healthcare facilities that require their expertise. With a deep understanding of the anesthesia landscape and a commitment to excellence, our agency stands out as a leading provider of staffing solutions.
+            At Keystone Healthcare Solutions, we specialize in connecting anesthesia providers with healthcare facilities that require their expertise. With a deep understanding of the anesthesia landscape and a commitment to excellence, our agency stands out as a leading provider of staffing solutions.
             </p>
 
             <div className="flex flex-col items-start space-y-3 sm:space-x-4 sm:space-y-0 sm:items-center sm:flex-row">

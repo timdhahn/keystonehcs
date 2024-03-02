@@ -21,7 +21,7 @@ const Service = (props) => {
             }
           </ul>
       )}
-      <p className="max-w-2xl py-4 text-left text-lg leading-normal text-gray-500 lg:text-xl xl:text-xl dark:text-gray-300">At Keystone Health Solutions, we’re more than just a staffing agency. We’re your partners in delivering exceptional anesthesia care. Let us help you ensure that your patients always receive the best possible care, by providing you with the top-tier providers that you need.</p>
+      <p className="max-w-2xl py-4 text-left text-lg leading-normal text-gray-500 lg:text-xl xl:text-xl dark:text-gray-300">At Keystone Healthcare Solutions, we’re more than just a staffing agency. We’re your partners in delivering exceptional anesthesia care. Let us help you ensure that your patients always receive the best possible care, by providing you with the top-tier providers that you need.</p>
     
       <p className="max-w-2xl py-4 text-left text-lg leading-normal text-gray-500 lg:text-xl xl:text-xl dark:text-gray-300">Contact us today to learn more about how we can support your staffing needs and elevate the standard of care at your facility.</p>
     </Container>
